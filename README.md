@@ -1,4 +1,4 @@
-# DSA210-termproject-yunusgencturk
+# F1 AeroMetrics: ATR Impact on The Competitiveness 
 ## Project Overview
 This projects aims to investigate the relationship between Formula 1 competitiveness and the Aerodynamic Testing Regulations(ATR), implemented since the 2021 season. The ATR system which limits the wind tunnel time on sliding scale inverse to the Constructors Championship ranking, was introduced to increase the overall quality of the competition by narrowing down the gap between the team performances. By analyzing year-over-year lap time delta and the constructors' championship point gap among different years we aim to prove that the 2021 update on the regulations increases the competitiveness of the sport. The hypothesis will be: The ATR(Aerodynamic Testing Regulations) works as intended. Teams with greater wind-tunnel time improves at a faster rate.
 ## Motivation
