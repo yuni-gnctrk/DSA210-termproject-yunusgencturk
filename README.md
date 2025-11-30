@@ -5,16 +5,16 @@ This projects aims to investigate the relationship between Formula 1 competitive
 As a passionate follower of the Formula 1 World Championship, I always wanted a more competitive sport since most of the time the results can be gussed by the middle of the season. FIA(Federation Internationale de l'Automobile) tries new regulations so i wanted to see if it has a impact or not. In this study i aim to improve my data analaysis skills through modeling, visualization and analysis.
 
 ## Hypothesis
-Null Hypothesis 1 (H₀₁): The ATR regulations doesn't have a significant impact on the constructor championship overall performances of the teams.
+Null Hypothesis 1 (H₀₁): The Aerodynamic Testing Restrictions (ATR) and Cost Cap regulations do not have a statistically significant impact on the teams' qualifying lap times in terms of gap to the leader.
 
-Alternative Hypothesis 1 (H₁₁): The ATR regulations have a significant impact on the constructor championship improvements of the teams.
+Alternative Hypothesis 1 (H₁₁): The Aerodynamic Testing Restrictions (ATR) and Cost Cap regulations have a statistically significant impact on the teams' qualifying lap time in terms of gap to the leader.
 
-Null Hypothesis 2 ($H_{02}$): The ATR regulations doesn't have a significant impact on the lap time improvements over different years.
+Null Hypothesis 2 ($H_{02}$): There is no significant correlation between the wind-tunnel time (ATR Limits) and the rate of in-season lap time improvement.
 
-Alternative Hypothesis 2 ($H_{12}$): The ATR regulations have a significant impact on the lap time improvements over different years.
+Alternative Hypothesis 2 ($H_{12}$):There is a significant correlation between the wind-tunnel time (ATR Limits) and the rate of in-season lap time improvement.
 
 ## Data Sources
-Race and Qualifying Lap Times Data: For every race and qualifying session the data of the aravage pace and fastest lap for both drivers of every team is recorded: www.statsf1.com 
+Race and Qualifying Lap Times Data: For every race and qualifying session the data of the aravage pace and fastest lap for both drivers of every team is recorded: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data
 
 ATR times per team decided by the FIA starting from the 2021 season: Motorsport Technical Reports / FIA Docs
 
