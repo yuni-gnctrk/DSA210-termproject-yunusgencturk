@@ -232,12 +232,10 @@ The significance level was set to alpha = 0.05 for all statistical tests.
 4. **COVID-19 Impact:** 2020 season excluded due to regulation anomalies
 
 ### Future Work
-
-1. **Expanded Features:** Include race pace data, not just qualifying performance
-2. **Driver Impact Analysis:** Separate driver talent effects from car performance
-3. **Budget Cap Integration:** Analyze combined effects of ATR and cost cap regulations (introduced 2021)
-4. **Extended Timeline:** Incorporate 2026+ data when new engine regulations take effect
-5. **Alternative Models:** Test polynomial regression for non-linear relationships
+1. **Track Characteristics:** In Formula 1, some tracks require being faster on the straights (like Monza - these can be categorized as fast tracks), while others require better acceleration after slow turns rather than pure speed (like Monaco - these can be categorized as slow tracks). This difference leads to different aerodynamic features; therefore, the effect of ATR can also change across circuit types.
+maybe:
+2. **Expanded Features:** Include race pace data, not just qualifying performance
+3. **Alternative Models:** Test polynomial regression for non-linear relationships
 
 ---
 
